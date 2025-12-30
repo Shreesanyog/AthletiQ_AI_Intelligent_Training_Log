@@ -28,7 +28,7 @@ A full-stack MERN application for athletes to log workouts, visualize performanc
 
 ### 2. Installation
 
-**Clone the repository:**
+**Clone the repository and then follow these steps:**
 ```bash
 
 cd athlete-ai-app
