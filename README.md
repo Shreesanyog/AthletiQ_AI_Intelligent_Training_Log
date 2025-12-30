@@ -30,5 +30,48 @@ A full-stack MERN application for athletes to log workouts, visualize performanc
 
 **Clone the repository:**
 ```bash
-git clone [https://github.com/YOUR_USERNAME/athlete-ai-app.git](https://github.com/YOUR_USERNAME/athlete-ai-app.git)
+
 cd athlete-ai-app
+
+cd server
+npm install
+
+cd ../client
+npm install
+```
+
+### 3. Configuration (⚠️ Important)
+You must set up your credentials for the app to work. The app will not start without these.
+
+- Navigate to the server/ folder.
+
+- Create a new file named .env.
+
+- Copy the contents below and paste them into your .env file, replacing the placeholders with your actual keys.
+
+```bash
+# Your MongoDB Connection String
+MONGO_URI=
+
+# Your Google Gemini API Key 
+GEMINI_API_KEY=
+
+# Server Port
+PORT=5000
+```
+### 4. Running the App
+You need to run the Backend and Frontend in two separate terminals.
+
+1. Terminal 1 ( Backend )
+```bash
+cd server
+node server.js
+```
+Output should say: "MongoDB Connected"
+
+2. Terminal 2 ( Frontend )
+```bash
+cd client
+npm run dev
+```
+Open the URL shown (usually http://localhost:5173)
