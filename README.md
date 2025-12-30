@@ -2,6 +2,12 @@
 
 A full-stack MERN application for athletes to log workouts, visualize performance trends, and receive personalized training advice using Google Gemini AI.
 
+<img width="1783" height="859" alt="image" src="https://github.com/user-attachments/assets/fe4326ff-4854-4c0a-9ebc-5df7fa5dca3e" />
+
+<img width="1616" height="771" alt="image" src="https://github.com/user-attachments/assets/bf803cc2-88d3-494e-b54e-4107be873c37" />
+
+
+
 ## ✨ Key Features
 - **AI Coach Intelligence:** Get daily, weekly, and monthly performance insights powered by Google Gemini.
 - **Interactive Dashboard:** Visualize volume trends and activity mix with dynamic charts.
