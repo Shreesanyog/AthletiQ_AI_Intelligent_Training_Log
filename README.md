@@ -4,7 +4,10 @@ A full-stack MERN application for athletes to log workouts, visualize performanc
 
 <img width="1783" height="859" alt="image" src="https://github.com/user-attachments/assets/fe4326ff-4854-4c0a-9ebc-5df7fa5dca3e" />
 
-<img width="1616" height="771" alt="image" src="https://github.com/user-attachments/assets/bf803cc2-88d3-494e-b54e-4107be873c37" />
+<img width="1549" height="762" alt="image" src="https://github.com/user-attachments/assets/70c04434-a7aa-4d81-b0df-79214374e55f" />
+<img width="498" height="771" alt="image" src="https://github.com/user-attachments/assets/469e49ea-bc10-4514-9da3-c6c97822d5bf" />
+
+
 
 
 
