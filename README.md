@@ -2,8 +2,6 @@
 
 A full-stack MERN application for athletes to log workouts, visualize performance trends, and receive personalized training advice using Google Gemini AI.
 
-
-
 ## ✨ Key Features
 - **AI Coach Intelligence:** Get daily, weekly, and monthly performance insights powered by Google Gemini.
 - **Interactive Dashboard:** Visualize volume trends and activity mix with dynamic charts.
@@ -24,13 +22,13 @@ A full-stack MERN application for athletes to log workouts, visualize performanc
 ## 🚀 Getting Started
 
 ### 1. Prerequisites
-- Node.js installed
-- MongoDB Atlas account (for Database URL)
-- Google AI Studio API Key
+- Node.js installed on your machine
+- A MongoDB Atlas account (to get your Database connection string)
+- A Google AI Studio API Key (for the AI features)
 
 ### 2. Installation
 
 **Clone the repository:**
 ```bash
-git clone 
+git clone [https://github.com/YOUR_USERNAME/athlete-ai-app.git](https://github.com/YOUR_USERNAME/athlete-ai-app.git)
 cd athlete-ai-app
